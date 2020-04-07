@@ -3,6 +3,9 @@
 
 Startup project including all commonly used packages.
 
+## Installing
+Add a Unity3d `EventSystem` object to the root of the scene.
+
 ## Dependancies
 You will need to copy the `Pyro` .dlls across.
 
