@@ -1,0 +1,7 @@
+Builds/
+
+# used by $WORK_DRIVE/bin/go
+.current
+.prev
+
+
